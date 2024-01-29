@@ -1,0 +1,14 @@
+.custom-trigger {
+    cursor: pointer;
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .custom-trigger:hover {
+    background-color: #45a049;
+  }
+  
